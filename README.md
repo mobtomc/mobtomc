@@ -9,7 +9,8 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
 </a>
 <a href="https://www.yourportfolio.com" target="_blank">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Font_Awesome_5_solid_user.svg" alt="Portfolio"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Font_Awesome_5_solid_user.svg/1200px-Font_Awesome_5_solid_user.svg.png" alt="Portfolio"/>
 </a>
+
 
 
